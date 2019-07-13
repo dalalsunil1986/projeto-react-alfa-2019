@@ -25,7 +25,7 @@ class MainLayout extends Component {
         <BrowserRouter>
           <Navbar color="light" expand="xs">
             <NavbarBrand>
-              <Link to='/'>WebDev</Link>
+              <Link to='/'>WebDev!</Link>
             </NavbarBrand>
             <Nav className="ml-auto" navbar>
               <NavItem>
